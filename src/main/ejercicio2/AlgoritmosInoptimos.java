@@ -1,7 +1,5 @@
 package main.ejercicio2;
 
-import java.util.*;
-
 public class AlgoritmosInoptimos {
 
     // 1. Buscar duplicados en un arreglo (ineficiente)
