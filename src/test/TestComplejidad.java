@@ -1,6 +1,6 @@
 package test;
 
-import main.ejercico1.RespuestasComplejidad;
+import main.ejercicio1.RespuestasComplejidad;
 
 public class TestComplejidad {
     // Respuestas correctas (puedes cambiarlas si modificas los algoritmos)

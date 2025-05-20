@@ -1,9 +1,10 @@
 package test;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
-import main.ejercico1.RespuestasComplejidad;
+import main.ejercicio1.RespuestasComplejidad;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 public class TestComplejidadJUnit {
 

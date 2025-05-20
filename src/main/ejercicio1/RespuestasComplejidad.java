@@ -1,4 +1,4 @@
-package main.ejercico1;
+package main.ejercicio1;
 
 public class RespuestasComplejidad {
     // Los estudiantes deben completar cada variable con la notación Big O correcta
