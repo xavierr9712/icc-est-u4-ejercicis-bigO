@@ -126,7 +126,3 @@ public static String imprimirArreglo = "O(n)";
 ## Conclusión
 
 Este proyecto permite fortalecer la comprensión sobre el análisis de la complejidad temporal de algoritmos y la notación Big O, asociando teoría y práctica. La retroalimentación automática facilita la identificación de errores y refuerza el aprendizaje activo.
-
----
-
-¿Te gustaría que agregue enlaces a documentación de Big O, o una sección de referencias teóricas? ¿Necesitas ejemplos de respuestas para todos los métodos o prefieres dejarlo abierto para los estudiantes?
