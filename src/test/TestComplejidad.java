@@ -49,7 +49,7 @@ public class TestComplejidad {
         for (int i = 0; i < respuestasCorrectas.length; i++) {
             boolean bien = normalizar(respuestasEstudiante[i]).equals(normalizar(respuestasCorrectas[i]));
             System.out.printf("%2d. %-18s -> Tu respuesta: %-10s | Correcta: %-7s %s\n",
-                    i + 1, nombres[i], respuestasEstudiante[i], respuestasCorrectas[i], bien ? "✔️" : "❌");
+                    i + 1, nombres[i], respuestasEstudiante[i], respuestasCorrectas[i], bien ? "si" :"no");
             if (bien)
                 correctas++;
         }
